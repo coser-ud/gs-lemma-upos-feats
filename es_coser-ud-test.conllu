@@ -2787,7 +2787,7 @@
 23	cinco	cinco	NUM	az0000	Number=Plur|NumType=Card	_	_	_	_
 24	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 25	mañana	mañana	NOUN	ncfs000	Gender=Fem|Number=Sing	_	_	_	_
-26	s	él	PRON	pc3cn000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	_	_	_	_
+26	s	él	PRON	pc3cn000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	_	_	_	Ortho=se
 27	ha	haber	AUX	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 28	levantao	levantar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	Ortho=levantado
 29	mi	mi	DET	dp1css	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
@@ -4099,7 +4099,7 @@
 5	bollo	bollo	NOUN	ncms000	Gender=Masc|Number=Sing	_	_	_	_
 6	es	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 7	que	que	SCONJ	cs	_	_	_	_	_
-8	s	él	PRON	pc3cn000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	_	_	_	_
+8	s	él	PRON	pc3cn000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	_	_	_	Ortho=se
 9	iba	ir	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_
 10	a	a	ADP	sps00	_	_	_	_	_
 11	poner	poner	VERB	vmn0000	VerbForm=Inf	_	_	_	_
@@ -19300,7 +19300,7 @@
 11	luego	luego	ADV	rg	_	_	_	_	_
 12	ya	ya	ADV	rg	_	_	_	_	_
 13	pos	pues	SCONJ	cs	_	_	_	_	Ortho=pues
-14	s	él	PRON	pc3cn000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	_	_	_	_
+14	s	él	PRON	pc3cn000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	_	_	_	Ortho=se
 15	ha	haber	AUX	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 16	quitao	quitar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	Ortho=quitado|SpaceAfter=No
 17	...	...	PUNCT	_	PunctType=Comm	_	_	_	_
